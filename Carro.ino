@@ -1,13 +1,4 @@
 
-/* 
- Ejemplo de control de motor DC usando modulo L298
- http://electronilab.co/tienda/driver-dual-para-motores-full-bridge-l298n/
- 
- Creado 16/05/14
- por Andres Cruz
- ELECTRONILAB.CO
- */
-
 int IN3 = 5;    // Input3 conectada al pin 5
 int IN4 = 4;    // Input4 conectada al pin 4 
 int ENB = 3;    // ENB conectada al pin 3 de Arduino
